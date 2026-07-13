@@ -82,13 +82,7 @@ I like turning ideas into software that is clear, useful, and reliable. I care a
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## Featured Work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| `backend-service` | API-first backend with structured data, auth, and clean business logic. | Python, SQL, Docker |
-| `web-dashboard` | Responsive interface for tracking, managing, and visualizing workflows. | JavaScript, TypeScript, Node.js |
-| `mobile-app` | Practical mobile experience with clean screens and fast interactions. | Flutter, Dart |
 
 ## GitHub Stats
 
