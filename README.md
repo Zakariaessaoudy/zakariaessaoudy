@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="assets/personal-image-3-clean.png" alt="Zakaria profile photo" width="240" />
 
   <h1>Zakaria</h1>
   <p><strong>Software Developer</strong> focused on backend systems, web apps, automation, and clean product experiences.</p>
